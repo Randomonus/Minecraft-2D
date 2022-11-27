@@ -81,6 +81,24 @@ function my_keydown(e){
      if(keyPressed=='55'){
         new_image('cloud.jpg');
      }
+     if(keyPressed=='56'){
+        new_image('wood.png');
+     }
+     if(keyPressed=='57'){
+        new_image('glass.png');
+     }
+     if(keyPressed=='97'){
+        new_image('sand.png');
+     }
+     if(keyPressed=='65'){
+        new_image('sand.png');
+    }
+    if(keyPressed=='98'){
+        new_image('water.jpg');
+    }
+    if(keyPressed=='66'){
+        new_image('water.jpg');
+    }
     if(keyPressed=='48'){
        new_image('air.png');
     }
